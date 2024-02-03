@@ -2,7 +2,7 @@
   "name": "co2-monitor",
   "version": "1.0.1",
   "dependencies": {
-    "commander": "^11.0.0",
+    "commander": "^12.0.0",
     "serialport": "^12.0.0",
     "winston": "^3.2.1"
   }
